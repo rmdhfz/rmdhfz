@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br> -->
   <samp>
-    Hafiz Ramadhan
+  I am Hafiz Ramadhan, a graduate of <a href='https://smkn1ciomas.sch.id/'> SMK Negeri 1 Ciomas</a>!
   </samp>
 </p>
 
