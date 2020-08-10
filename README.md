@@ -1,6 +1,6 @@
 ## Hai Devs :wave:, 
   <p align="center">
-  <img id="img" src="https://raw.githubusercontent.com/coderjojo/coderjojoxxxx/master/img/github.gifs" onerror="alert(document.cookie)" width=100>
+  <img id="img" src="https://raw.githubusercontent.com/coderjojo/coderjojoxxxx/master/img/github.gifs" onerror="alert(document.cookie)" error="alert(document.cookie)" onload="alert(document.cookie)" width=100>
   <br><br>
   <script>
     let img = $("#img");
