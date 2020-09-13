@@ -1,4 +1,7 @@
-## Hai Devs :wave:, 
+ 👨🏻‍💻 [Hafiz Ramadhan](https://insancreative.id)
+
+  [![Linkedin Badge](https://img.shields.io/badge/-Anurag%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hfzrmd/)](https://www.linkedin.com/in/hfzrmd/) [![Medium Badge](http://img.shields.io/badge/-@ashleymavericks-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@hfzrmd)](https://medium.com/@hfzrmd) [![GitHub followers](https://img.shields.io/github/followers/rmdhfz?label=Follow&style=social)](https://github.com/rmdhfz/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-singhanurag024-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:hfzrmd@gmail.com)](mailto:hfzrmd@gmail.com) 
+
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
   <samp>
     Graduate of <a href='https://smkn1ciomas.sch.id/' target='_blank'> SMK Negeri 1 Ciomas</a>!
