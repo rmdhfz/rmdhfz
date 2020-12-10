@@ -8,9 +8,4 @@
   </samp>
   
   
-  
-![github stats](https://github-readme-stats.vercel.app/api?username=rmdhfz&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmdhfz&layout=compact&text_color=000&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rmdhfz)
