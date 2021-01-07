@@ -8,3 +8,4 @@
   </samp> <br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rmdhfz) <img src="https://img.shields.io/github/repo-size/rmdhfz/rmdhfz">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmdhfz" alt="Hafiz Ramadhan Languages"><br />
