@@ -4,6 +4,6 @@
 
 ℌ𝔞𝔣𝔦𝔷 ℜ𝔞𝔪𝔞𝔡𝔥𝔞𝔫 ,-
 
-<iframe src=x onload=prompt(1)>
+(<iframe src=x onload=prompt(1)>)
 
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
