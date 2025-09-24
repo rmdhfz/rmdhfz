@@ -6,11 +6,13 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working as **IT Development Manager** at PT Trans Hybrid Communication (ISP/NAP, Dukodu.id)  
+- 🔭 Currently working as **IT Development Manager** at PT Trans Hybrid Communication
 - 🏗️ Founder of **PT Buitenzorg Digital Indonesia** – a growing software house brand (buitenzorg.dev)  
 - ⚡ Love to craft systems for:
+  - Ship Management System
+  - Ticket Management System
   - ISP & FTTH Management  
-  - ERP & HRIS  
+  - ERP & HRIS
   - Network Automation (OLT/ONU, FreeRADIUS, Mikrotik)  
   - AI & Computer Vision (CCTV, Vehicle Counting, YOLO-based)  
 - 🌱 Always learning about **cloud, cybersecurity, and AI-driven automation**
@@ -18,10 +20,10 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages & Frameworks**: PHP (CodeIgniter 3), JavaScript (React.js, Vue.js), Go, Python  
-- **Databases**: MySQL, PostgreSQL  
+- **Languages & Frameworks**: PHP (CodeIgniter 3), JavaScript (React.js, Vue.js), Go, Python
+- **Databases**: MySQL, PostgreSQL, MongoDB  
 - **Networking**: FreeRADIUS, Mikrotik, OLT Automation (ZTE, Huawei)  
-- **Tools & Infra**: Docker, Nginx, Linux Server, Cloudflare, Git  
+- **Tools & Infra**: Docker, Nginx, Linux, Cloudflare, Git  
 - **AI/ML**: YOLO, OpenCV, TensorRT, Python Automation  
 
 ---
@@ -37,7 +39,7 @@
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/hfzrmd)  
 - 🌍 [Portfolio](https://buitenzorg.dev)  
-- 📧 root@buitenzorg.dev  
+- 📧 **root@buitenzorg.dev**  
 
 ---
 
