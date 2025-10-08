@@ -29,7 +29,7 @@
 ---
 
 ## 📌 Featured Projects
-- 🌐 **FTTH Management System** – powering ISP operations with automated OLT provisioning and billing (~2B IDR/month revenue impact)  
+- 🌐 **FTTH Management System** – powering ISP operations with automated provisioning and billing
 - 📊 **HRIS & ERP Rewrite** – saving 20M IDR/year in operational efficiency  
 - 🎥 **AI-Powered Vehicle Monitoring** – YOLO + CCTV system for ports & traffic management  
 - ⚙️ **Network Inventory & Asset Management** – supporting due-diligence & IPO readiness  
