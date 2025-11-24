@@ -1,5 +1,3 @@
-👋 Hi, I'm Hafiz Ramadhan
-
 💻 Software Engineer from 🇮🇩
 🚀 I build scalable systems, automate workflows, and develop digital products for businesses and ISPs.
 
