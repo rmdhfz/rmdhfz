@@ -1,6 +1,11 @@
 <div align="center">
   <h1>Hi there, I'm Hafiz Ramadhan! 👋</h1>
-  <p><strong>IT Development Team Lead | Software Engineer | Cyber Security Enthusiast</strong></p>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=IT+Development+Team+Lead;Software+Engineer;Cyber+Security+Enthusiast" alt="Typing SVG" />
+  </a>
+  <br/>
+  
   <p>
     <a href="https://rmdhfz.github.io" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-rmdhfz.github.io-000000?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
@@ -48,3 +53,20 @@ With **8 years of experience** in the Internet Service Provider industry, I spec
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-Secure-000000?style=flat-square&logo=OpenVPN&logoColor=white)
 
+---
+
+### 🐍 GitHub Contribution
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rmdhfz/rmdhfz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rmdhfz/rmdhfz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rmdhfz/rmdhfz/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rmdhfz&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+</div>
