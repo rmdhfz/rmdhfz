@@ -53,5 +53,5 @@ With **8 years of experience** in the Internet Service Provider industry, I spec
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmdhfz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmdhfz&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
 </div>
