@@ -48,10 +48,3 @@ With **8 years of experience** in the Internet Service Provider industry, I spec
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-Secure-000000?style=flat-square&logo=OpenVPN&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmdhfz&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
-</div>
